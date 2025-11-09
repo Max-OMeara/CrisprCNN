@@ -1,7 +1,7 @@
 import csv
 
 input_filename = "data/GenomeCRISPR_full05112017_brackets.csv"
-output_filename = 'GenomeCRISPR_+_strands.csv'
+output_filename = 'data/GenomeCRISPR_+_strands.csv'
 strand_column_index = 3
 sequence_column_index = 7
 
